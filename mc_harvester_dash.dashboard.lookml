@@ -5,7 +5,7 @@
   tile_size: 100
 
   elements:
-    - name: mc_harvester_dash_280923
+    - name: mc_harvester dash_280923
       title: MC Harvester Visualization_280923
       model: mc_harvester_model
       explore: dept
